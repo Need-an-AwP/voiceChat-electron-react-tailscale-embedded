@@ -1,0 +1,4 @@
+electron后台窗口和托盘图标
+
+tailscale官方authkey和headscale的authkey之间的切换
+- 记忆authkey
